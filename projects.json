@@ -1,8 +1,8 @@
 [
     {
-      "name": "project1",
+      "name": "NBA Player APP",
       "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "git": "https://github.com/Dh529885/NBA-PLAYER-STATS",
       "image": "http://www.imgur.com/pictureofproject.png"
     },
     {
